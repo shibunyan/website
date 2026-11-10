@@ -8,6 +8,7 @@ Personal portfolio website of **Shibunyan** — fullstack developer specializing
 - Animated professional focus line
 - Technology stack overview
 - GitHub profile & email contact
+- Terms of Service and Privacy Policy pages (`terms.html`, `privacy.html`)
 
 ## Tech Stack
 
